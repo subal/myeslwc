@@ -45,29 +45,31 @@
     [
         "D:\\LWC\\myeslwc\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1559279803367,
-            "changeTime": 1559279803367,
+            "modifiedTime": 1559213288864,
+            "changeTime": 1559213288864,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
-            "contentHash": "f63d541a9351f96e69318ffcacbc73c2b0daa6ab"
+            "isArtifactRoot": false
         }
     ],
     [
         "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc",
         {
-            "state": "u",
             "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1559279538477,
-            "changeTime": 1559279538477,
+            "modifiedTime": 1559213288865,
+            "changeTime": 1559213288865,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
-            "contentHash": "1cf95930d8fece393a65d04897dfb74735a78b30"
+            "isArtifactRoot": false
         }
     ],
     [
@@ -413,378 +415,196 @@
     [
         "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\customerList",
         {
+            "state": "u",
             "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\customerList",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1559276992631,
             "changeTime": 1559276992631,
-            "contentHash": "aa7903c1d455aef0ce6e57528acdac2692fe7b52",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "aa7903c1d455aef0ce6e57528acdac2692fe7b52"
         }
     ],
     [
         "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\customerTile",
         {
+            "state": "u",
             "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\customerTile",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1559276522996,
             "changeTime": 1559276522996,
-            "contentHash": "5fb27d9a9c0d95870cd5f196048fb721fcc3f4fd",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "5fb27d9a9c0d95870cd5f196048fb721fcc3f4fd"
         }
     ],
     [
         "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\inlineMessage",
         {
+            "state": "u",
             "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\inlineMessage",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1559278410224,
             "changeTime": 1559278410243,
-            "contentHash": "b265f458a7aed8b49a22fb71ab09395bc315bda4",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "b265f458a7aed8b49a22fb71ab09395bc315bda4"
         }
     ],
     [
         "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\pubsub",
         {
+            "state": "u",
             "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\pubsub",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1559278410199,
             "changeTime": 1559278410241,
-            "contentHash": "825dc4f64293d1cb0763368d6a5b772afed59972",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "825dc4f64293d1cb0763368d6a5b772afed59972"
         }
     ],
     [
         "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\customerList\\customerList.html",
         {
+            "state": "u",
             "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\customerList\\customerList.html",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 688,
             "modifiedTime": 1559277930435,
             "changeTime": 1559277930435,
-            "contentHash": "221658efb147b100f2b3c8d6e0c99474c0f4b251",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "221658efb147b100f2b3c8d6e0c99474c0f4b251"
         }
     ],
     [
         "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\customerList\\customerList.js",
         {
+            "state": "u",
             "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\customerList\\customerList.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 1536,
             "modifiedTime": 1559277074224,
             "changeTime": 1559277074224,
-            "contentHash": "a7b1e720f2009ff39a06a191bd399af7c02b340d",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "a7b1e720f2009ff39a06a191bd399af7c02b340d"
         }
     ],
     [
         "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\customerList\\customerList.js-meta.xml",
         {
+            "state": "u",
             "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\customerList\\customerList.js-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 542,
             "modifiedTime": 1559278343875,
             "changeTime": 1559278343875,
-            "contentHash": "debf90ee7833dbee66799b8e6c81928566dca26a",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "debf90ee7833dbee66799b8e6c81928566dca26a"
         }
     ],
     [
         "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\customerTile\\customerTile.html",
         {
+            "state": "u",
             "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\customerTile\\customerTile.html",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 605,
             "modifiedTime": 1559276924582,
             "changeTime": 1559276924582,
-            "contentHash": "7c8ec2d88bf9ab696dfa898452a60e9c76d02ae6",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "7c8ec2d88bf9ab696dfa898452a60e9c76d02ae6"
         }
     ],
     [
         "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\customerTile\\customerTile.js",
         {
+            "state": "u",
             "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\customerTile\\customerTile.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 1266,
             "modifiedTime": 1559276576523,
             "changeTime": 1559276576523,
-            "contentHash": "2b8aeea5baead401c966c2ed17fd9151ce0fc8ec",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "2b8aeea5baead401c966c2ed17fd9151ce0fc8ec"
         }
     ],
     [
         "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\customerTile\\customerTile.js-meta.xml",
         {
+            "state": "u",
             "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\customerTile\\customerTile.js-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 227,
             "modifiedTime": 1559276522994,
             "changeTime": 1559276522994,
-            "contentHash": "13a8f53473150edb08a6d34e9604709ea6758279",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "13a8f53473150edb08a6d34e9604709ea6758279"
         }
     ],
     [
         "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.html",
         {
+            "state": "u",
             "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.html",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 1375,
             "modifiedTime": 1559211672559,
             "changeTime": 1559211672559,
-            "contentHash": "9098c96fda28ddc2ac5ac48007426de1413b535a",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "9098c96fda28ddc2ac5ac48007426de1413b535a"
         }
     ],
     [
         "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.js",
         {
+            "state": "u",
             "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 2522,
             "modifiedTime": 1559211672561,
             "changeTime": 1559211672561,
-            "contentHash": "fd3da10d77d065d8d561d0126763af29815821b6",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fd3da10d77d065d8d561d0126763af29815821b6"
         }
     ],
     [
         "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.js-meta.xml",
         {
+            "state": "u",
             "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.js-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 234,
             "modifiedTime": 1559211672562,
             "changeTime": 1559211672562,
-            "contentHash": "ec7b5989523c1fe810c5e6fed794a554ca15fe84",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "ec7b5989523c1fe810c5e6fed794a554ca15fe84"
         }
     ],
     [
         "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js",
         {
+            "state": "u",
             "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 3230,
             "modifiedTime": 1559211672564,
             "changeTime": 1559211672564,
-            "contentHash": "dd5fe8df566199947715bc412024c06760f19bab",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "dd5fe8df566199947715bc412024c06760f19bab"
         }
     ],
     [
         "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js-meta.xml",
         {
+            "state": "u",
             "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 227,
             "modifiedTime": 1559211672565,
             "changeTime": 1559211672565,
-            "contentHash": "450b992d3c0aa4b60f00ccac0349f18f4c00f2e1",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "D:\\LWC\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura",
-        {
-            "state": "u",
-            "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1559279803412,
-            "changeTime": 1559279803412,
-            "contentHash": "084528634d0926ac36b51bdcf6a2f62af14a9225"
-        }
-    ],
-    [
-        "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\reservationHelper",
-        {
-            "state": "u",
-            "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\reservationHelper",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1559279538481,
-            "changeTime": 1559279538481,
-            "contentHash": "af5a5c9ee853a9b072f6e2338da8c64dc6da5a5a"
-        }
-    ],
-    [
-        "D:\\LWC\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1559279803411,
-            "changeTime": 1559279803411,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "D:\\LWC\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.cmp",
-        {
-            "state": "u",
-            "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 1031,
-            "modifiedTime": 1559279865954,
-            "changeTime": 1559279865954,
-            "contentHash": "691415bff58ea771826eae3418e12154dbb08fd4"
-        }
-    ],
-    [
-        "D:\\LWC\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 253,
-            "modifiedTime": 1559279803372,
-            "changeTime": 1559279803372,
-            "contentHash": "69bc744e423eff6fc5015da137642e631c2c9557"
-        }
-    ],
-    [
-        "D:\\LWC\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.css",
-        {
-            "state": "u",
-            "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 10,
-            "modifiedTime": 1559279803402,
-            "changeTime": 1559279803402,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
-        }
-    ],
-    [
-        "D:\\LWC\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.design",
-        {
-            "state": "u",
-            "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1559279803412,
-            "changeTime": 1559279803412,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "D:\\LWC\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.svg",
-        {
-            "state": "u",
-            "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1559279803409,
-            "changeTime": 1559279803409,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "D:\\LWC\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAuraController.js",
-        {
-            "state": "u",
-            "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAuraController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 656,
-            "modifiedTime": 1559279966177,
-            "changeTime": 1559279966177,
-            "contentHash": "ce2947f6828997224f44c3a86cb71b7c15d5b685"
-        }
-    ],
-    [
-        "D:\\LWC\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAuraHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAuraHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 1299,
-            "modifiedTime": 1559280050345,
-            "changeTime": 1559280050345,
-            "contentHash": "7d45ff40eb7ae79f6ef2fd46e2ae075c0ad68d05"
-        }
-    ],
-    [
-        "D:\\LWC\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAuraRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAuraRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1559279803406,
-            "changeTime": 1559279803406,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
-        }
-    ],
-    [
-        "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\reservationHelper\\reservationHelper.html",
-        {
-            "state": "u",
-            "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\reservationHelper\\reservationHelper.html",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1559279770295,
-            "changeTime": 1559279770295,
-            "contentHash": "8a3f3e81f2a81509a5cb8a07e45cd16a5839189b"
-        }
-    ],
-    [
-        "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\reservationHelper\\reservationHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\reservationHelper\\reservationHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 1477,
-            "modifiedTime": 1559279869863,
-            "changeTime": 1559279869863,
-            "contentHash": "204f33810bf4e0ea3491d993f2ec0de0519d4b40"
-        }
-    ],
-    [
-        "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\reservationHelper\\reservationHelper.js-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "D:\\LWC\\myeslwc\\force-app\\main\\default\\lwc\\reservationHelper\\reservationHelper.js-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 232,
-            "modifiedTime": 1559279538480,
-            "changeTime": 1559279538480,
-            "contentHash": "6b913a3095acca5d7d75031b40bf5058b45581cb"
+            "contentHash": "450b992d3c0aa4b60f00ccac0349f18f4c00f2e1"
         }
     ]
 ]
